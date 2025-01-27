@@ -1,0 +1,1 @@
+A simple application to obtain information from local PDF document using RAG (Retrieval-Augmented Generation) AI framework.
